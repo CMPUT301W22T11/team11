@@ -2,7 +2,7 @@ package com.example.team11;
 
 public abstract class Shape {
     private int x, y;
-    String color = "$PUT_YOUR_CHOICE_OF_COLOR";
+    String color = "Blue";
     public int getX() {
         return x;
     }
